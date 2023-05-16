@@ -23,7 +23,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
   
     <div class ="flex-container">
     	<div class ="flex-child-image">
-      		<img src="https://github.com/FerrazArthur/ferrazarthur.github.io/blob/main/icons/home.png", width=40px>
+      		<img src="/icons/home.png", width=40px>
       	</div>
       	<div class="flex-child-text">
       		São Mateus, Sernamby<br>Av. Jones dos santos neves nº 1218
@@ -31,7 +31,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
     </div>
     <div class ="flex-container">
     	<div class ="flex-child-image">
-      		<img src="https://github.com/FerrazArthur/ferrazarthur.github.io/blob/main/icons/cell-phone.png", width=40px>
+      		<img src="/icons/cell-phone.png", width=40px>
         </div>
         <div class="flex-child-text">
         	+55 27 996137802
@@ -39,7 +39,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
     </div>
     <div class ="flex-container">
     	<div class ="flex-child-image">
-      <img src="https://github.com/FerrazArthur/ferrazarthur.github.io/blob/main/icons/email.png", width=40px> 
+      <img src="/icons/email.png", width=40px> 
       	</div>
         <div class="flex-child-text">
         	arthursnc@gmail.com
@@ -47,7 +47,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
     </div>
     <div class ="flex-container">
     	<div class ="flex-child-image">
-      		<img src="https://github.com/FerrazArthur/ferrazarthur.github.io/blob/main/icons/github.png", width=40px>
+      		<img src="/icons/github.png", width=40px>
         </div>
         <div class="flex-child-text">
         	https://github.com/FerrazArthur
