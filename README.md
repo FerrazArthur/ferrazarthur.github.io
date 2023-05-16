@@ -4,7 +4,7 @@
 
 <div class="flex-container">
 
-  <div class="flex-child left">
+  <div class="flex-child">
     
 Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empenhado em encontrar as melhores soluções. Procuro oportunidades para aplicar meus conhecimentos em resolução de problemas, e ao mesmo tempo aprender com os desafios e desenvolver novas habilidades. Sou uma pessoa autodidata, proativa, com habilidade em raciocínio lógico e abstração de sistemas. Também valorizo o trabalho em equipe e acredito que a colaboração e a discussão são fundamentais para encontrar as melhores soluções. Tenho muita habilidade na linguagem C, e já implementei diversas estruturas de dados completas, como árvores de busca e filas especializadas, como a skiplist. Tenho bom conhecimento em C++ e já implementei muitos algoritmos numéricos usando Python. Além disso, trabalho com diversas outras linguagens e tenho facilidade em me adaptar a novos desafios e paradigmas.
     
@@ -30,34 +30,34 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
   </div>
 
-<div class="flex-child right">
-  <div class="flex-child rightupper">
-    <div class ="flex-container">
-    	<div class ="flex-child-image">
+<div class="flex-child">
+  <div class="flex-container">
+    <div class="flex-container">
+    	<div class="flex-child-image">
       		<img src="/icons/home.png", width=40px>
       	</div>
       	<div class="flex-child-text">
       		São Mateus, Sernamby<br>Av. Jones dos santos neves nº 1218
        	</div>
     </div>
-    <div class ="flex-container">
-    	<div class ="flex-child-image">
+    <div class="flex-container">
+    	<div class="flex-child-image">
       <img src="/icons/email.png", width=30px> 
       	</div>
         <div class="flex-child-text">
-          <a href ="mailto: arthursnc@gmail.com">arthursnc@gmail.com</a>
+          <a href="mailto: arthursnc@gmail.com">arthursnc@gmail.com</a>
         </div>
     </div>
-    <div class ="flex-container">
-    	<div class ="flex-child-image">
+    <div class="flex-container">
+    	<div class="flex-child-image">
       		<img src="/icons/github.png", width=30px>
         </div>
         <div class="flex-child-text">
         	<a href="https://github.com/FerrazArthur">FerrazArthur</a>
         </div>
     </div>
-    <div class ="flex-container">
-    	<div class ="flex-child-image">
+    <div class="flex-container">
+    	<div class="flex-child-image">
       		<img src="/icons/cell-phone.png", width=35px>
         </div>
         <div class="flex-child-text">
