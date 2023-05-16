@@ -21,10 +21,9 @@
     flex: 1;
     border: 0px;
     text-align: justify;
-    border-style: none;
 }
 
-.flex-child:first-child {
+.flex-child.left {
     border = 2px;
     margin-right: 10px;
     padding-right: 10px;
