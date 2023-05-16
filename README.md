@@ -19,15 +19,15 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
     
 #### Idiomas
 
-&ensp;Português: nativo    
+&ensp;Português: nativo
 
 &ensp;Inglês: intermediário
 
+
   </div>
-  
+
   <div class="flex-child right">
     <div class="flex-child right">
-  
     <div class ="flex-container">
     	<div class ="flex-child-image">
       		<img src="/icons/home.png", width=40px>
@@ -60,7 +60,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
         	+55 27 996137802
         </div>
     </div>
-      
+
 #### Competências
 
 - Atenção às boas práticas de programação e de projetos de software;
@@ -94,6 +94,8 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 &ensp;Bacharelado em ciência da Computação
 
   </div>
-  
+
+
+
 </div>
 </body>
