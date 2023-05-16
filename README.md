@@ -33,34 +33,34 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 <div class="flex-child">
   <div class=".flex-containerIcon">
     <div class="flex-container">
-    	<div class="flex-child-image">
+    	<div class="flex-image">
       		<img src="/icons/home.png", width=40px>
       	</div>
-      	<div class="flex-child-text">
+      	<div class="flex-text">
       		São Mateus, Sernamby<br>Av. Jones dos santos neves nº 1218
        	</div>
     </div>
     <div class="flex-container">
-    	<div class="flex-child-image">
+    	<div class="flex-image">
       <img src="/icons/email.png", width=30px> 
       	</div>
-        <div class="flex-child-text">
+        <div class="flex-text">
           <a href="mailto: arthursnc@gmail.com">arthursnc@gmail.com</a>
         </div>
     </div>
     <div class="flex-container">
-    	<div class="flex-child-image">
+    	<div class="flex-image">
       		<img src="/icons/github.png", width=30px>
         </div>
-        <div class="flex-child-text">
+        <div class="flex-text">
         	<a href="https://github.com/FerrazArthur">FerrazArthur</a>
         </div>
     </div>
     <div class="flex-container">
-    	<div class="flex-child-image">
+    	<div class="flex-image">
       		<img src="/icons/cell-phone.png", width=35px>
         </div>
-        <div class="flex-child-text">
+        <div class="flex-text">
         	+55 27 996137802
         </div>
     </div>
