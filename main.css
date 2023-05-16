@@ -11,6 +11,7 @@
 }
 .flex-child-image {
 	align-self: left;
+	width: 40px;
 }
 
 .flex-child {
