@@ -6,8 +6,6 @@
 
   <div class="flex-child left">
     
-# Arthur Ferraz
-    
 Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empenhado em encontrar as melhores soluções. Procuro oportunidades para aplicar meus conhecimentos em resolver problemas, e ao mesmo tempo aprender com os desafios e desenvolver novas habilidades. Sou uma pessoa autodidata, proativa, com habilidade em raciocínio lógico e abstração de sistemas. Também valorizo o trabalho em equipe e acredito que a colaboração e a discussão são fundamentais para encontrar as melhores soluções. Tenho muita habilidade na linguagem C, e já implementei diversas estruturas de dados completas, como árvores de busca e filas especializadas, como a skiplist. Tenho bom conhecimento em C++ e já implementei muitos algoritmos numéricos usando Python. Além disso, trabalho com diversas outras linguagens e tenho facilidade em me adaptar a novos desafios e paradigmas.
     
 #### Realizações
