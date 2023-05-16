@@ -1,13 +1,15 @@
 .flex-container {
     display: flex;
-    text-align: justify;
+    
 }
 
 .flex-child {
     flex: 1;
-    border: 2px solid yellow;
+    border: 2px solid;
+    text-align: justify;
 }  
 
 .flex-child:first-child {
     margin-right: 20px;
+    text-align: justify;
 } 
