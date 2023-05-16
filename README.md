@@ -31,7 +31,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
     </div>
     <div class ="flex-container">
     	<div class ="flex-child-image">
-      		<img src="/icons/cell-phone.png", width=40px>
+      		<img src="/icons/cell-phone.png", width=35px>
         </div>
         <div class="flex-child-text">
         	+55 27 996137802
@@ -39,7 +39,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
     </div>
     <div class ="flex-container">
     	<div class ="flex-child-image">
-      <img src="/icons/email.png", width=40px> 
+      <img src="/icons/email.png", width=30px> 
       	</div>
         <div class="flex-child-text">
         	arthursnc@gmail.com
@@ -47,10 +47,10 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
     </div>
     <div class ="flex-container">
     	<div class ="flex-child-image">
-      		<img src="/icons/github.png", width=40px>
+      		<img src="/icons/github.png", width=30px>
         </div>
         <div class="flex-child-text">
-        	https://github.com/FerrazArthur
+        	<a href="https://github.com/FerrazArthur">FerrazArthur</a>
         </div>
     </div>
       
