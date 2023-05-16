@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="./main.css">
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<body>
 
 <div class="flex-container">
 
@@ -61,3 +62,4 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
   </div>
   
 </div>
+</body>
