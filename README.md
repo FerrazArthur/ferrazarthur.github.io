@@ -10,10 +10,10 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
     
 #### Realizações
     
-- Desenvolvi uma aplicação web “CRUD” com o uso dos framework flask para python;
+- Desenvolvi uma aplicação web “CRUD” com o uso de container e dos frameworks Flask e SQLAalchemy para Python;
 - Fui estagiário no laboratório de computação, responsável pelo pleno funcionamento das máquinas que atendem aos alunos do campus;
 - Fui eleito representante do corpo discente no Depto. de ciência e eletrônica;
-- Disponibilizei no github minhas implementações das estruturas árvores genéricas AVL e rubro negra em C, incluindo uma aplicação para compressão de dados utilizando o algoritmo de Huffman;
+- Disponibilizei no Github minhas implementações das estruturas árvores genéricas AVL e rubro negra em C, incluindo uma aplicação para compressão de dados utilizando o algoritmo de Huffman;
 - Em Julia, implementei diferentes algoritmos para solução de problemas do caixeiro viajante e minimizadores globais,  baseados em metaheurísticas.
 
  
@@ -25,13 +25,13 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
 &ensp;&ensp;São Mateus, ES   
 
-&ensp;&ensp;Bacharelado em ciência da Computação
+&ensp;&ensp;Bacharelado em ciência da computação
 
 
   </div>
 
+<div class="flex-child right">
   <div class="flex-child right">
-    <div class="flex-child right">
     <div class ="flex-container">
     	<div class ="flex-child-image">
       		<img src="/icons/home.png", width=40px>
@@ -64,6 +64,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
         	+55 27 996137802
         </div>
     </div>
+  </div>
 
 #### Competências
 
@@ -93,9 +94,6 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 &ensp;&ensp;Português: nativo
 
 &ensp;&ensp;Inglês: intermediário
-
-  </div>
-
 
 
 </div>
