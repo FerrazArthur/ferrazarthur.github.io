@@ -1,6 +1,9 @@
 .flex-container {
     display: flex;
-    
+}
+.flex-containerIcon{
+    display: flex;
+    flex-direction: row;
 }
 .flex-child {
     flex: 1;
