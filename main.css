@@ -22,14 +22,13 @@
     padding-left: 4px;
     text-align: left;
     align-self: center;
-    display: center;
 }
 .flex-image {
     text-align: center;
     align-items: center;
+    align-self: center;
     width: 40px;
     min-width:40px;
-    display: center;
 }
 @media (max-width: 800px) {
   .flex-container {
@@ -37,5 +36,8 @@
   }
   .flex-child:first-child {
       border = 0px;
+  }
+  .flex-text {
+    text-align:center;
   }
 }
