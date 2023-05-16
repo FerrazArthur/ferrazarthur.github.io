@@ -16,12 +16,16 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 - Disponibilizei no github minhas implementações das estruturas árvores genéricas AVL e rubro negra em C, incluindo uma aplicação para compressão de dados utilizando o algoritmo de Huffman;
 - Em Julia, implementei diferentes algoritmos para solução de problemas do caixeiro viajante e minimizadores globais,  baseados em metaheurísticas.
 
-    
-#### Idiomas
+ 
+#### Formação Acadêmica
 
-&ensp;Português: nativo
+&ensp;&ensp;Esperado em 06/2023 
 
-&ensp;Inglês: intermediário
+&ensp;&ensp;UFES, CEUNES 
+
+&ensp;&ensp;São Mateus, ES   
+
+&ensp;&ensp;Bacharelado em ciência da Computação
 
 
   </div>
@@ -83,15 +87,12 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
 - Disciplina e foco em atingir objetivos.
 
-#### Formação Acadêmica
 
-&ensp;Esperado em 06/2023 
+#### Idiomas
 
-&ensp;UFES, CEUNES 
+&ensp;&ensp;Português: nativo
 
-&ensp;São Mateus, ES   
-
-&ensp;Bacharelado em ciência da Computação
+&ensp;&ensp;Inglês: intermediário
 
   </div>
 
