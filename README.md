@@ -45,7 +45,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
       <img src="/icons/email.png", width=30px> 
       	</div>
         <div class="flex-child-text">
-        	arthursnc@gmail.com
+          <a href ="mailto: arthursnc@gmail.com">arthursnc@gmail.com</a>
         </div>
     </div>
     <div class ="flex-container">
