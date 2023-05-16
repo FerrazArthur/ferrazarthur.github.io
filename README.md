@@ -39,18 +39,18 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
     </div>
     <div class ="flex-container">
     	<div class ="flex-child-image">
-      		<img src="/icons/cell-phone.png", width=35px>
-        </div>
-        <div class="flex-child-text">
-        	+55 27 996137802
-        </div>
-    </div>
-    <div class ="flex-container">
-    	<div class ="flex-child-image">
       		<img src="/icons/github.png", width=30px>
         </div>
         <div class="flex-child-text">
         	<a href="https://github.com/FerrazArthur">FerrazArthur</a>
+        </div>
+    </div>
+    <div class ="flex-container">
+    	<div class ="flex-child-image">
+      		<img src="/icons/cell-phone.png", width=35px>
+        </div>
+        <div class="flex-child-text">
+        	+55 27 996137802
         </div>
     </div>
       
