@@ -19,6 +19,41 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
   </div>
   
   <div class="flex-child right">
+    <div class="flex-child right">
+  
+    <div class ="flex-container">
+    	<div class ="flex-child-image">
+      		<img src="https://github.com/FerrazArthur/ferrazarthur.github.io/blob/main/icons/home.png">
+      	</div>
+      	<div class="flex-child-text">
+      		São Mateus, Sernamby<br>Av. Jones dos santos neves nº 1218
+       	</div>
+    </div>
+    <div class ="flex-container">
+    	<div class ="flex-child-image">
+      		<img src="https://github.com/FerrazArthur/ferrazarthur.github.io/blob/main/icons/cell-phone.png">
+        </div>
+        <div class="flex-child-text">
+        	+27 996137802
+        </div>
+    </div>
+    <div class ="flex-container">
+    	<div class ="flex-child-image">
+      <img src="https://github.com/FerrazArthur/ferrazarthur.github.io/blob/main/icons/email.png"> 
+      	</div>
+        <div class="flex-child-text">
+        	arthursnc@gmail.com
+        </div>
+    </div>
+    <div class ="flex-container">
+    	<div class ="flex-child-image">
+      		<img src="https://github.com/FerrazArthur/ferrazarthur.github.io/blob/main/icons/github.png">
+        </div>
+        <div class="flex-child-text">
+        	https://github.com/FerrazArthur
+        </div>
+    </div>
+      
 #### Competências
 
 - Atenção às boas práticas de programação e de projetos de software;
