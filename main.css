@@ -35,7 +35,8 @@
   .flex-container {
     flex-direction: column;
   }
-  .flex-child {
+  .flex-child:first-child {
+    border-right-style: none;
     margin-right: 0px;
     padding-right: 0px;
   }
