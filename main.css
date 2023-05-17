@@ -36,7 +36,8 @@
     flex-direction: column;
   }
   .flex-child:first-child {
-      border = none;
+    margin-right: 0px;
+    padding-right: 0px;
   }
   .flex-text {
     text-align:center;
