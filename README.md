@@ -2,22 +2,22 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
  
 <body>
-
 <div class="flex-container">
-
   <div class="flex-child">
-    
+
+#### Resumo
+
 Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empenhado em encontrar as melhores soluções. Procuro oportunidades para aplicar meus conhecimentos em resolução de problemas, e ao mesmo tempo aprender com os desafios e desenvolver novas habilidades. Sou uma pessoa autodidata, proativa, com habilidade em raciocínio lógico e abstração de sistemas. Também valorizo o trabalho em equipe e acredito que a colaboração e a discussão são fundamentais para encontrar as melhores soluções. Tenho muita habilidade na linguagem C, e já implementei diversas estruturas de dados completas, como árvores de busca e filas especializadas, como a skiplist. Tenho bom conhecimento em C++ e já implementei muitos algoritmos numéricos usando Python. Além disso, trabalho com diversas outras linguagens e tenho facilidade em me adaptar a novos desafios e paradigmas.
-    
+
 #### Realizações
-    
+
 - Desenvolvi uma aplicação web “CRUD” com o uso de container e dos frameworks Flask e SQLAalchemy para Python;
 - Fui estagiário no laboratório de computação, responsável pelo pleno funcionamento das máquinas que atendem aos alunos do campus;
 - Fui eleito representante do corpo discente no Depto. de ciência e eletrônica;
 - Disponibilizei no Github minhas implementações das estruturas árvores genéricas AVL e rubro negra em C, incluindo uma aplicação para compressão de dados utilizando o algoritmo de Huffman;
 - Em Julia, implementei diferentes algoritmos para solução de problemas do caixeiro viajante e minimizadores globais,  baseados em metaheurísticas.
 
- 
+
 #### Formação Acadêmica
 
 &ensp;&ensp;Esperado em 06/2023 
@@ -28,9 +28,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
 &ensp;&ensp;Bacharelado em ciência da computação
 
-
   </div>
-
 <div class="flex-child">
   <div class=".flex-containerIcon">
     <div class="flex-container">
@@ -89,13 +87,11 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
 - Disciplina e foco em atingir objetivos.
 
-
 #### Idiomas
 
 &ensp;&ensp;Português: nativo
 
 &ensp;&ensp;Inglês: intermediário
-
 
 </div>
 </body>
