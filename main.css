@@ -37,8 +37,9 @@
   }
   .flex-child:first-child {
     border-right-style: none;
-    margin-right: 0px;
-    padding-right: 0px;
+    border-bottom-style: dotted;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
   }
   .flex-text {
     text-align:center;
