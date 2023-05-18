@@ -30,7 +30,6 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
   </div>
 <div class="flex-child">
- <div class="flex-container" order=1>
   <div class=".flex-containerIcon">
     <div class="flex-container">
     	<div class="flex-image">
@@ -65,8 +64,6 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
         </div>
     </div>
   </div>
- </div>
- <div class="flex-container" order=2>
  
 #### Competências
 
@@ -96,6 +93,5 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
 &ensp;&ensp;Inglês: intermediário
 
- </div>
 </div>
 </body>
