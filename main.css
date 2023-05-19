@@ -6,17 +6,16 @@
     flex-direction: row;
 }
 .flex-child {
-    flex: 1;
+    display: flex;
     text-align: justify;
+    flex-direction: column;
+    max-width: 50%;
 }
 .flex-child:first-child {
     border: 2px;
     margin-right: 10px;
     padding-right: 10px;
     border-right-style: dotted;
-}
-.flex-child:not(:first-child){
-    border = 0px;
 }
 .flex-child2 {
     flex: 1;
@@ -39,16 +38,25 @@
   .flex-container {
     flex-direction: column;
   }
+  .flex-child {
+    max-width: 100%;
+  }
   .flex-child:not(:first-child) {
     flex-direction: column-reverse;
+    max-width: 100%;
   }
     .flex-child:first-child {
     border-right-style: none;
-    border-bottom-style: dotted;
     margin: 0px;
     padding: 0px;
   }
   .flex-text {
     text-align:center;
+  }
+  .flex-containerIcon {
+    border: 2px;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top-style: dotted;
   }
 }
