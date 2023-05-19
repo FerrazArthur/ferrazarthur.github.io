@@ -30,41 +30,44 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
   </div>
 <div class="flex-child">
-  <div class=".flex-containerIcon">
-    <div class="flex-container">
-    	<div class="flex-image">
-      		<img src="/icons/home.png", width=40px>
-      	</div>
-      	<div class="flex-text">
-      		São Mateus, Sernamby<br>Av. Jones dos santos neves nº 1218
-       	</div>
-    </div>
-    <div class="flex-container">
-    	<div class="flex-image">
-      <img src="/icons/email.png", width=30px> 
-      	</div>
+  <div class="flex-child2">
+    <div class=".flex-containerIcon">
+      <div class="flex-container">
+        <div class="flex-image">
+          <img src="/icons/home.png" , width=40px>
+        </div>
+        <div class="flex-text">
+          São Mateus, Sernamby<br>Av. Jones dos santos neves nº 1218
+        </div>
+      </div>
+      <div class="flex-container">
+        <div class="flex-image">
+          <img src="/icons/email.png" , width=30px>
+        </div>
         <div class="flex-text">
           <a href="mailto: arthursnc@gmail.com">arthursnc@gmail.com</a>
         </div>
-    </div>
-    <div class="flex-container">
-    	<div class="flex-image">
-      		<img src="/icons/github.png", width=30px>
+      </div>
+      <div class="flex-container">
+        <div class="flex-image">
+          <img src="/icons/github.png" , width=30px>
         </div>
         <div class="flex-text">
-        	<a href="https://github.com/FerrazArthur">FerrazArthur</a>
+          <a href="https://github.com/FerrazArthur">FerrazArthur</a>
         </div>
-    </div>
-    <div class="flex-container">
-    	<div class="flex-image">
-      		<img src="/icons/cell-phone.png", width=35px>
+      </div>
+      <div class="flex-container">
+        <div class="flex-image">
+          <img src="/icons/cell-phone.png" , width=35px>
         </div>
         <div class="flex-text">
-        	+55 27 996137802
+          +55 27 996137802
         </div>
+      </div>
     </div>
   </div>
- 
+  <div class="flex-child2">
+
 #### Competências
 
 - Atenção às boas práticas de programação e de projetos de software;
@@ -92,6 +95,12 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 &ensp;&ensp;Português: nativo
 
 &ensp;&ensp;Inglês: intermediário
-
+   
+  </div>
 </div>
 </body>
+ 
+ <script>
+    function reorderDivs() {
+    }
+ </script>
