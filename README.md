@@ -99,9 +99,3 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
   </div>
 </div>
 </body>
-<script>
- function reorderDivs() {
-  document.getElementById("icons").style.order = '2';
-  document.getElementById("comp").style.order = '1';
- }
- </script>
