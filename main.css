@@ -39,13 +39,14 @@
   .flex-container {
     flex-direction: column;
   }
-  .flex-child:first-child {
+  .flex-child:not(:first-child) {
+    flex-direction: column-reverse;
+  }
+    .flex-child:first-child {
     border-right-style: none;
     border-bottom-style: dotted;
     margin: 0px;
     padding: 0px;
-
-
   }
   .flex-text {
     text-align:center;
