@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="./main.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
  
-<body>
+<body onresize="reorderDivs">
 <div class="flex-container">
   <div class="flex-child">
 
@@ -30,7 +30,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
   </div>
 <div class="flex-child">
-  <div class="flex-child2">
+  <div class="flex-child2" id="icons" order=1>
     <div class=".flex-containerIcon">
       <div class="flex-container">
         <div class="flex-image">
@@ -66,7 +66,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
       </div>
     </div>
   </div>
-  <div class="flex-child2">
+  <div class="flex-child2" id="comp" order=2>
 
 #### Competências
 
@@ -99,8 +99,9 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
   </div>
 </div>
 </body>
- 
- <script>
-    function reorderDivs() {
-    }
+<script>
+ function reorderDivs() {
+  document.getElementById("icons").style.order = '2';
+  document.getElementById("comp").style.order = '1';
+ }
  </script>
