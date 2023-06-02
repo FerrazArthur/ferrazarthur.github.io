@@ -20,7 +20,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
 #### Formação Acadêmica
 
-&ensp;&ensp;Esperado em 06/2023 
+&ensp;&ensp;Esperado em 2023 
 
 &ensp;&ensp;UFES, CEUNES 
 
