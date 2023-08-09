@@ -15,8 +15,8 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 - Fui estagiário no laboratório de computação, responsável pelo pleno funcionamento das máquinas que atendem aos alunos do campus;
 - Fui eleito representante do corpo discente no Depto. de ciência e eletrônica;
 - Disponibilizei no Github minhas implementações das estruturas árvores genéricas AVL e rubro negra em C, incluindo uma aplicação para compressão de dados utilizando o algoritmo de Huffman;
-- Em Julia, implementei diferentes algoritmos para solução de problemas do caixeiro viajante e minimizadores globais,  baseados em metaheurísticas.
-
+- Em Julia, implementei diferentes algoritmos para solução de problemas do caixeiro viajante e minimizadores globais,  baseados em metaheurísticas;
+- Faço estágio na empresa <a href="https://www.quant1.com.br/index.html">Quantum</a>.
 
 #### Formação Acadêmica
 
@@ -60,7 +60,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
         <div class="flex-image">
           <img src="/icons/cell-phone.png" , width=35px>
         </div>
-        <div class="flex-text">
+        <div class="flex-text" style="display:none">
           +55 27 996137802
         </div>
       </div>
@@ -85,6 +85,8 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 - Aptidão para programação procedural, orientada a objetos ou eventos, funcional e lógica;
 
 - Atenção a detalhes e habilidades em comunicação;
+
+- Experiência com análise estatística;
 
 - Flexibilidade para adaptação em diferentes grupos de trabalho;
 
