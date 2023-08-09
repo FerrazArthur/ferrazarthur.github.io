@@ -60,8 +60,8 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
         <div class="flex-image">
           <img src="/icons/cell-phone.png" , width=35px>
         </div>
-        <div class="flex-text" style="display:none">
-          +55 27 996137802
+        <div class="flex-text">
+          <!- +55 27 996137802 ->
         </div>
       </div>
     </div>
