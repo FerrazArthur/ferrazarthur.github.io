@@ -7,26 +7,27 @@
 
 #### Resumo
 
-Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empenhado em encontrar as melhores soluções. Procuro oportunidades para aplicar meus conhecimentos em resolução de problemas, e ao mesmo tempo aprender com os desafios e desenvolver novas habilidades. Sou uma pessoa autodidata, proativa, com habilidade em raciocínio lógico e abstração de sistemas. Também valorizo o trabalho em equipe e acredito que a colaboração e a discussão são fundamentais para encontrar as melhores soluções. Tenho muita habilidade na linguagem C, e já implementei diversas estruturas de dados completas, como árvores de busca e filas especializadas, como a skiplist. Tenho bom conhecimento em C++ e já implementei muitos algoritmos numéricos usando Python. Além disso, trabalho com diversas outras linguagens e tenho facilidade em me adaptar a novos desafios e paradigmas.
+Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atualmente, trabalho na Quant1 Tecnologia, onde aplico meus conhecimentos em pesquisa e desenvolvimento de soluções em software. Tenho sólida familiaridade com a linguagem C, na qual implementei diversas estruturas de dados como árvores de busca e filas especializadas. Além disso, possuo habilidades em C++, prática significativa em Python e proficiência no uso do sistema linux por meio da linha de comando. Minha experiência se extende ao desenvolvimento de imagens e networks para containers, redes de computadores e tecnologias de segurança digital.
 
 #### Realizações
 
-- Desenvolvi uma aplicação web “CRUD” com o uso de container e dos frameworks Flask e SQLAalchemy para Python;
-- Fui estagiário no laboratório de computação, responsável pelo pleno funcionamento das máquinas que atendem aos alunos do campus;
-- Fui eleito representante do corpo discente no Depto. de ciência e eletrônica;
+- Fui estágiario na empresa <a href="https://www.quant1.com.br/">Quantum tecnologia</a>;
+- Desenvolvi uma aplicação em Python voltada para avaliação de desempenho em configurações de backtests no mercado financeiro;
+- Implementei uma aplicação em container, utilizando a linguagem C, que possibilita o uso de um proxy reverso personalizável através da autenticação com um servidor LDAP;
+- Estabeleci um ambiente abrangente de testes para a aplicação mencionada, incluindo a configuração de um servidor DNS local;
+- Desenvolvi uma aplicação web com operações CRUD, utilizando containers e os frameworks Flask e SQLAalchemy em Python;
 - Disponibilizei no Github minhas implementações das estruturas árvores genéricas AVL e rubro negra em C, incluindo uma aplicação para compressão de dados utilizando o algoritmo de Huffman;
-- Em Julia, implementei diferentes algoritmos para solução de problemas do caixeiro viajante e minimizadores globais,  baseados em metaheurísticas;
-- Faço estágio na empresa <a href="https://www.quant1.com.br/index.html">Quantum</a>.
+- Com a linguagem Julia, implementei diferentes algoritmos para solução de problemas do caixeiro viajante e minimizadores globais, baseados em metaheurísticas;
+- Fui estagiário no laboratório de computação, responsável pelo pleno funcionamento das máquinas que atendem aos alunos do campus;
+- Fui eleito representante do corpo discente no Depto. de ciência e eletrônica.
 
 #### Formação Acadêmica
 
-&ensp;&ensp;Esperado em 2023 
+&ensp;&ensp;Bacharelado em ciência da computação
 
 &ensp;&ensp;UFES, CEUNES 
 
-&ensp;&ensp;São Mateus, ES   
-
-&ensp;&ensp;Bacharelado em ciência da computação
+&ensp;&ensp;São Mateus, ES  
 
   </div>
 <div class="flex-child">
@@ -74,9 +75,11 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
 - Habilidade em abstração de sistemas;
 
-- Experiência em diferentes ferramentas e linguagens como C, C++, SQL, GNU, GIT, CSS, VIM, LaTeX, makefile, Javascript, Python, Java, Bash Shell Script, Processing, Prolog, Excel e Julia;
+- Experiência em diferentes ferramentas e linguagens como C, C++, SQL, GNU-like, GIT, Docker, nginx, CSS, VIM, LaTeX, makefile, Javascript, Python, Java, Bash Shell Script, Processing, Prolog, Excel e Julia;
 
 - Competência para trabalhar com arquiteturas baseadas em microsserviços: API's, containers e comunicação distribuída;
+
+- Experiência na elaboração de testes unitários;
 
 - Facilidade em adquirir conhecimentos de forma autônoma;
 
@@ -84,9 +87,9 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
 - Aptidão para programação procedural, orientada a objetos ou eventos, funcional e lógica;
 
-- Atenção a detalhes e habilidades em comunicação;
-
 - Experiência com análise estatística;
+
+- Conhecimentos teórico sobre tecnologias Block chain;
 
 - Flexibilidade para adaptação em diferentes grupos de trabalho;
 
@@ -96,7 +99,7 @@ Brasileiro, solteiro, 25 anos. Sou um estudante de ciência da computação empe
 
 &ensp;&ensp;Português: nativo
 
-&ensp;&ensp;Inglês: intermediário
+&ensp;&ensp;Inglês: intermediário, com habilidades fluentes em leitura e escrita. Capacidade para comunicação efetiva em inglês.
    
   </div>
 </div>
