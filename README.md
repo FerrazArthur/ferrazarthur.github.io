@@ -7,7 +7,7 @@
 
 #### Resumo
 
-Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atualmente trabalho na Quantum Tecnologia, onde aplico meus conhecimentos em pesquisa e desenvolvimento de soluções em software. Tenho sólida familiaridade com a linguagem C, na qual implementei diversas estruturas de dados como árvores de busca e filas especializadas. Além disso, possuo habilidades em C++, prática significativa em Python e proficiência no uso do sistema linux por meio da linha de comando. Minha experiência se estende ao desenvolvimento de imagens e networks para containers, redes de computadores e tecnologias de segurança digital.
+Sou um brasileiro de 26 anos, graduado em Ciência da Computação. Atualmente trabalho na Quantum Tecnologia, onde aplico meus conhecimentos em pesquisa e desenvolvimento de soluções em software. Tenho sólida familiaridade com a linguagem C, na qual implementei diversas estruturas de dados como árvores de busca e filas especializadas. Além disso, possuo habilidades em C++, prática significativa em Python e proficiência no uso do sistema linux por meio da linha de comando. Minha experiência se estende ao desenvolvimento de imagens e networks para containers, redes de computadores e tecnologias de segurança digital.
 
 #### Realizações
 
