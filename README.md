@@ -57,14 +57,14 @@ Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atu
           <a href="https://github.com/FerrazArthur">FerrazArthur</a>
         </div>
       </div>
-      <!- <div class="flex-container"> ->
-      <!-  <div class="flex-image"> ->
-      <!-    <img src="/icons/cell-phone.png" , width=35px> ->
-      <!-  </div> ->
-      <!-  <div class="flex-text"> ->
-      <!-    +55 27 996137802 ->
-      <!-  </div> ->
-      <!-</div> ->
+      <!-- <div class="flex-container">
+        <div class="flex-image">
+          <img src="/icons/cell-phone.png" , width=35px>
+        </div>
+        <div class="flex-text">
+          +55 27 996137802
+        </div>
+      </div> -->
     </div>
   </div>
   <div class="flex-child-child">
