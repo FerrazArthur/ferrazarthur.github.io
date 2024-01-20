@@ -19,7 +19,7 @@ Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atu
 - Disponibilizei no Github minhas implementações das estruturas árvores genéricas AVL e rubro negra em C, incluindo uma aplicação para compressão de dados utilizando o algoritmo de Huffman;
 - Com a linguagem Julia, implementei diferentes algoritmos para solução de problemas do caixeiro viajante e minimizadores globais, baseados em metaheurísticas;
 - Fui estagiário no laboratório de computação, responsável pelo pleno funcionamento das máquinas que atendem aos alunos do campus;
-- Fui eleito representante do corpo discente no Depto. de ciência e eletrônica.
+- Trabalhei com shims para integrar a interface WASI com o containerd em ambientes de execução de containers OCI.
 
 #### Formação Acadêmica
 
