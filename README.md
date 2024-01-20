@@ -7,7 +7,7 @@
 
 #### Resumo
 
-Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atualmente, trabalho na Quant1 Tecnologia, onde aplico meus conhecimentos em pesquisa e desenvolvimento de soluções em software. Tenho sólida familiaridade com a linguagem C, na qual implementei diversas estruturas de dados como árvores de busca e filas especializadas. Além disso, possuo habilidades em C++, prática significativa em Python e proficiência no uso do sistema linux por meio da linha de comando. Minha experiência se extende ao desenvolvimento de imagens e networks para containers, redes de computadores e tecnologias de segurança digital.
+Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atualmente trabalho na Quant1 Tecnologia, onde aplico meus conhecimentos em pesquisa e desenvolvimento de soluções em software. Tenho sólida familiaridade com a linguagem C, na qual implementei diversas estruturas de dados como árvores de busca e filas especializadas. Além disso, possuo habilidades em C++, prática significativa em Python e proficiência no uso do sistema linux por meio da linha de comando. Minha experiência se extende ao desenvolvimento de imagens e networks para containers, redes de computadores e tecnologias de segurança digital.
 
 #### Realizações
 
@@ -57,14 +57,14 @@ Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atu
           <a href="https://github.com/FerrazArthur">FerrazArthur</a>
         </div>
       </div>
-      <div class="flex-container">
+      <!- <div class="flex-container">
         <div class="flex-image">
           <img src="/icons/cell-phone.png" , width=35px>
         </div>
         <div class="flex-text">
-          <!- +55 27 996137802 ->
+          +55 27 996137802
         </div>
-      </div>
+      </div> ->
     </div>
   </div>
   <div class="flex-child-child">
@@ -99,7 +99,8 @@ Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atu
 
 &ensp;&ensp;Português: nativo
 
-&ensp;&ensp;Inglês: intermediário, com habilidades fluentes em leitura e escrita. Capacidade para comunicação efetiva em inglês.
+&ensp;&ensp;Inglês: intermediário, 
+&ensp;&ensp;com habilidades fluentes em leitura e escrita. Capacidade para comunicação efetiva em inglês.
    
   </div>
 </div>
