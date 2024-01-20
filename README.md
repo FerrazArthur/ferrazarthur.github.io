@@ -100,6 +100,7 @@ Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atu
 &ensp;&ensp;Português: nativo
 
 &ensp;&ensp;Inglês: intermediário, 
+
 &ensp;&ensp;com habilidades fluentes em leitura e escrita. Capacidade para comunicação efetiva em inglês.
    
   </div>
