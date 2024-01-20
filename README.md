@@ -7,11 +7,11 @@
 
 #### Resumo
 
-Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atualmente trabalho na Quant1 Tecnologia, onde aplico meus conhecimentos em pesquisa e desenvolvimento de soluções em software. Tenho sólida familiaridade com a linguagem C, na qual implementei diversas estruturas de dados como árvores de busca e filas especializadas. Além disso, possuo habilidades em C++, prática significativa em Python e proficiência no uso do sistema linux por meio da linha de comando. Minha experiência se extende ao desenvolvimento de imagens e networks para containers, redes de computadores e tecnologias de segurança digital.
+Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atualmente trabalho na Quantum Tecnologia, onde aplico meus conhecimentos em pesquisa e desenvolvimento de soluções em software. Tenho sólida familiaridade com a linguagem C, na qual implementei diversas estruturas de dados como árvores de busca e filas especializadas. Além disso, possuo habilidades em C++, prática significativa em Python e proficiência no uso do sistema linux por meio da linha de comando. Minha experiência se estende ao desenvolvimento de imagens e networks para containers, redes de computadores e tecnologias de segurança digital.
 
 #### Realizações
 
-- Fui estágiario na empresa <a href="https://www.quant1.com.br/">Quantum tecnologia</a>;
+- Fui estágiário na empresa <a href="https://www.quant1.com.br/">Quantum tecnologia</a>;
 - Desenvolvi uma aplicação em Python voltada para avaliação de desempenho em configurações de backtests no mercado financeiro;
 - Implementei uma aplicação em container, utilizando a linguagem C, que possibilita o uso de um proxy reverso personalizável através da autenticação com um servidor LDAP;
 - Estabeleci um ambiente abrangente de testes para a aplicação mencionada, incluindo a configuração de um servidor DNS local;
@@ -89,7 +89,7 @@ Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atu
 
 - Experiência com análise estatística;
 
-- Conhecimentos teórico sobre tecnologias Block chain;
+- Conhecimentos teórico sobre tecnologias Blockchain;
 
 - Flexibilidade para adaptação em diferentes grupos de trabalho;
 
@@ -97,11 +97,9 @@ Sou um brasileiro solteiro de 26 anos, graduado em Ciência da Computação. Atu
 
 #### Idiomas
 
-&ensp;&ensp;Português: nativo
+&ensp;&ensp;Português: nativo;
 
-&ensp;&ensp;Inglês: intermediário, 
-
-&ensp;&ensp;com habilidades fluentes em leitura e escrita. Capacidade para comunicação efetiva em inglês.
+&ensp;&ensp;Inglês: intermediário, com habilidades fluentes em leitura e escrita e capacidade para comunicação efetiva em inglês.
    
   </div>
 </div>
